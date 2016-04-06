@@ -1,2 +1,5 @@
 This repository contains source code for basic Hand Recognition.
 
+    The code counts the number of fingers, also controls the mouse cursor according to the center of the palm. 
+    Closing of fist emulates clicking of the mouse button.
+
